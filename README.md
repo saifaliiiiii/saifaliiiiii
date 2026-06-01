@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Saif Ali 👋</h1>
+<h1 align="center">Hey, I'm Syed Saif Ali 👋</h1>
 <h3 align="center">Software Engineer · New Grad 2026 · React · TypeScript · AWS</h3>
 
 <p align="center">
